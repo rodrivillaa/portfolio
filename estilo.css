@@ -897,11 +897,11 @@ footer{
     }
     .contenedor-header header nav ul li a{
         font-size: 12px;
-        margin: 0px;
+        margin: 6px;
         display: flex;
         justify-content: center;
         align-items: center;
-        margin: 0 auto;
+       
         list-style: none;
         
     }
