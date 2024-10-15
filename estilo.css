@@ -973,19 +973,19 @@ footer{
     .info h1{
         margin-bottom: 5px;
         font-weight: lighter;
-        font-size: 16px;
+        font-size: 18px;
     }
     
     .info h2{
         font-weight: lighter;
-        font-size: 16px;
+        font-size: 18px;
     }
     
     .icons{
         display: flex;
         position: absolute;
         bottom: 180px;
-        left: 115px;
+        left: 125px;
         cursor: pointer;
     }
     
